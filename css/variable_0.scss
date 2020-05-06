@@ -1,0 +1,37 @@
+$cap: small-caps; /* variable use*/
+    ul {
+    font-variant: $cap;
+    }
+
+div {  /* nesting use*/
+    ul {
+    li a {
+        color: #ffffff;
+        }
+    }
+}
+
+%style { /* inheritance use*/
+    padding: 1px;
+    margin: 0px;
+}
+
+.full_name {
+    @extend %style;
+    color: #00E52D;
+}
+
+.age {
+    @extend %style;
+    color: #00E52D;
+}
+
+.playing_style {
+    @extend %style;
+    color: #00E52D;
+}
+
+.where {
+    @extend %style;
+    color: #00E52D;
+}
