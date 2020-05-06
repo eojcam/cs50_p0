@@ -12,9 +12,9 @@ Second page, why.html states author's experience with
 finger-style playing, and has a short table showing some
 pluses and minuses for using the hands only.
 
-Third page, examples.html, has audio and downloadable music
-files in pdf format in a zip file for each of two examples of
-finger-style guitar playing on electric and acoustic guitars,
+Third page, examples.html, has playable and downloadable audio
+and music files in pdf format in a zip file for each of two
+examples of finger-style guitar playing on electric and acoustic guitars,
 as played by the author. Both are original compositions.
 
 Fourth page, connect.html, has image of author, a twitter link,
