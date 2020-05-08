@@ -10,7 +10,7 @@ or not, where they are from, their age, and name.
 
 Second page, why.html states author's experience with
 finger-style playing, and has a short table showing some
-pluses and minuses for using the hands only.
+pluses and minuses for using the hands or a pick.
 
 Third page, examples.html, has playable and downloadable audio
 and music files in pdf format in a zip file for each of two
