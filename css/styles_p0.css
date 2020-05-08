@@ -28,7 +28,9 @@ p::selection {
     color: #FFFF00;
 }
 
-
+input[type=text] {
+    color: purple;
+}
 
 table {
     margin: 0 auto 10px; auto;
