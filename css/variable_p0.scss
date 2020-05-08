@@ -1,0 +1,44 @@
+$color: red; /* variable */
+
+ul {
+    color: $color;
+    text-align: center;
+}
+
+div {  /* nesting */
+    ul {
+    color: #ffffff;
+    }
+    p {
+        font-size: 14px;
+    }
+}
+
+%sign-up { /* inheritance */
+    padding: 1px;
+    margin: 0;
+}
+
+.full_name {
+    @extend %sign-up;
+    font-family: cursive;
+    color: red;
+}
+
+.age {
+    @extend %sign-up;
+    font-family: cursive;
+    color: red;
+}
+
+.playing_style {
+    @extend %sign-up;
+    font-family: cursive;
+    color: red;
+    font-weight: bolder;
+}
+
+.where {
+    font-family: cursive;
+    color: red;
+}

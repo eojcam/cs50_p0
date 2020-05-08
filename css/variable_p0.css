@@ -1,0 +1,35 @@
+/* variable */
+ul {
+  color: red;
+  text-align: center; }
+
+div {
+  /* nesting */ }
+  div ul {
+    color: #ffffff; }
+  div p {
+    font-size: 14px; }
+
+.full_name, .age, .playing_style {
+  /* inheritance */
+  padding: 1px;
+  margin: 0; }
+
+.full_name {
+  font-family: cursive;
+  color: red; }
+
+.age {
+  font-family: cursive;
+  color: red; }
+
+.playing_style {
+  font-family: cursive;
+  color: red;
+  font-weight: bolder; }
+
+.where {
+  font-family: cursive;
+  color: red; }
+
+/*# sourceMappingURL=variable_p0.css.map */
