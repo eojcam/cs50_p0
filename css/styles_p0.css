@@ -147,7 +147,7 @@ ul {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 499px) {
     h1::before {
         content: "Finger-Style Club";
     }
