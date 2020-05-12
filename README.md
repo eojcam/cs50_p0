@@ -22,7 +22,7 @@ as a link to author's teaching site.
 
 More detailed overview:
 
-My site, Finger-Style Guitar Club, is a tongue in cheek look at the pros and cons of playing a guitar with just one’s hands, or with the aid of a guitar pick, or plectrum.
+My site, Finger-Style Guitar Club, is a look at the pros and cons of playing a guitar with just one’s hands, or with the aid of a guitar pick, or plectrum.
 
 All pages link, and share a stylistic likeness in that they share the same nav and footer as well as other commonalities such as background color, text styles, and coloration.
 There are two css files that I coded, a sass file,  a link for the favicon display, plus some bootstrap required files to make components work.
